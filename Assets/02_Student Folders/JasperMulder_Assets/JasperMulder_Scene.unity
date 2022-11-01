@@ -4317,7 +4317,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7535462baa2ed0d469f708cbe145b720, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  title: Survive the assault
+  title: Survive the police assault
   description: Kill them all
   isOptional: 0
   delayVisible: 0
